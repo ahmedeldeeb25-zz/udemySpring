@@ -1,4 +1,4 @@
-package com.fullstack.demo;
+package com.fullstack;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
